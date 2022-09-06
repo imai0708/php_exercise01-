@@ -15,5 +15,11 @@ if($a > $b) {
     echo '入力された値は等しいです';
 }
 
-
+/*if ($a < $b) {
+    echo $b;
+} elseif ($a > $b) {
+    echo $a;
+} else {
+    echo '入力された値は等しいです';
+}*/
 
